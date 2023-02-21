@@ -1,4 +1,0 @@
-Link para Download do Git/GitHub
-https://git-scm.com/download/win
-
-O Git é um terminal extendido para otimizar o uso do Git.
